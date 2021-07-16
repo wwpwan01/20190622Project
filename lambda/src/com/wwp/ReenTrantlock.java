@@ -23,8 +23,8 @@ public class ReenTrantlock<T> {
     Condition persion = lock.newCondition();
 
     public synchronized void add(T t) {
+        lock.lock();
         try {
-            lock.lock();
             while (list.size() == MAX) {
                 condition.await();
             }
