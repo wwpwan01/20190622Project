@@ -10,7 +10,6 @@ public class Test {
 
         Sorter sorter = new Sorter();
         sorter.sort(a,new BreakFirstComparator());
-        System.out.println(Arrays.toString(a));
 
     }
 }
