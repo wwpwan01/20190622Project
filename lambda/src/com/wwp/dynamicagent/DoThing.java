@@ -1,4 +1,4 @@
-package com.wwp.proxy;
+package com.wwp.dynamicagent;
 
 /**
  * @author admin
