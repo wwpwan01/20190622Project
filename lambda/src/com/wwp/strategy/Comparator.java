@@ -1,7 +1,7 @@
 package com.wwp.strategy;
 
 /**
- * @title 比较器
+ * @title 比较器 （策略接口）
  * @description 定义接口，实现定制的规比较则
  * @author admin
  * @updateTime

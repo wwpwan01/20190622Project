@@ -7,7 +7,7 @@ import java.lang.reflect.Proxy;
  * @author wwp
  * @version 1.0.0
  * @ClassName Test.java
- * @Description 动态代理
+ * @Description 动态代理 需要重新理解，还没有理解透彻
  * @createTime 2021年07月16日 16:17:00
  */
 public class Test {
