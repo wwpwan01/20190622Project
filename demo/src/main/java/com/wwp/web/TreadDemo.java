@@ -4,6 +4,7 @@ public class TreadDemo extends Thread {
 
     private int i = 100;
 
+    @Override
     public void run(){
         for (int i =0; i<= 100 ; i++){
             if(i > 0 && i % 2 ==0){
